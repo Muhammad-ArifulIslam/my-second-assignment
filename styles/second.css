@@ -1,0 +1,64 @@
+/* nav related style */
+
+h2{
+
+    font-size: 36px;
+font-weight: 800;
+}
+
+.hero{
+
+color: #131318;
+
+}
+
+.travel{
+
+color: #FF5400;
+
+
+}
+
+.home{
+
+    color: #FF5400;
+    font-weight: 700;
+
+}
+
+nav{
+
+    color: #424247;
+    display: flex;
+   align-items: center;
+   justify-content: space-between;
+   margin: 0 150px;
+
+
+}
+
+nav > ul{
+
+    display: flex;
+    align-items: center;
+
+}
+
+nav li{
+
+    list-style: none;
+    margin: 45px;
+
+
+}
+
+
+nav a{
+
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: 400;
+ 
+ }
+
+ 
